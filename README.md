@@ -12,3 +12,6 @@ Things I never remember correctly
 
 - desde hace: something is happening for a period of time
   - Habl**o** con él desde hace cinco horas -> I **have been speaking** with for five hours
+
+  - cuánto hace que
+    - Cuánto hace que tu primo enseña salsa en esta academia? -> How long has your cousin been teaching in this academy?
